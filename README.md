@@ -1,4 +1,6 @@
-#Angular.Admin - 仿Angle，Angular.Admin正在开发中
+#Angular.Admin 
+
+# ---- 此为仿Angle UI, 我们的Angular.Admin正在开发中... 敬请期待！
 
 基于 RequireJs+AngluarJs+Bootstap 的管理平台
 
