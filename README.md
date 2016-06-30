@@ -1,4 +1,4 @@
-#Angular.Admin
+#Angular.Admin - 仿Angle，Angular.Admin正在开发中
 
 基于 RequireJs+AngluarJs+Bootstap 的管理平台
 
